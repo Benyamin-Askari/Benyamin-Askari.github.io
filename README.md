@@ -1,10 +1,6 @@
-# Benyamin-Askari.github.io
-# Data Scientist
+# Health @ IoT Data Science 
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+## Education						       		
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
@@ -54,4 +50,100 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
 - [Data Science Blog](https://medium.com/@shawhin)
+
+- Benyamin Askari
+
+
+ 
++44(0)7480790670	b.askari@edu.salford.ac.uk^
+
+LinkedIn/Benyamin Askari^
+std_Benyamin.Askari@alumni.khu.ac.ir^
+
+
+
+With a multidisciplinary background in IoT-Data Science and Exercise Physiology, I have gained a deep understanding of health, disease, and lifestyle interventions, and have been equipped with the tools to collect and analyze complex data and address critical healthcare challenges. My research experience and international collaborations with the National University of Singapore and Simon Fraser University have developed my ability to identify gaps and work effectively in diverse teams. I have training in IoT sensors, big data, and Machine/Deep learning techniques which I have applied in previous health research. With this foundation, I am eager to contribute to research aimed at utilizing Artificial intelligence and wearables to monitor and measure the movements of individuals with diseases causing mobility impairments like PD and stroke.
+
+Education
+Master of Science	2024- 2025	University of Salford	Internet of Things with Data Science	GPA: 80.5/100
+Four project-based modules covering: ML & DL, IoT Systems Design & Computer Vision, Big Data, Security in IoT (emphasis on medical settings). Projects also include IoT development with Arduino and Raspberry Pi.
+
+Master of Science	2018 - 2020	Kharazmi University	Pure Exercise Activity	GPA: 3.7/4
+Thesis: The effect of endurance training on factors mediating lysosome biogenesis in aged rats.
+Aims: 1. How TFE3, mTORC2, Calcineurin, skeletal muscle fiber diameter, and number differ between the young and the aged 2. Their post-exercise response in sedentary and trained groups 3. How long-term training affects all the factors 4. How training adaptation affects the magnitude of post-exercise response 5. The causal relationship between variables
+• All the mentioned hypotheses are analyzed by Bayesian inference
+
+Bachelor of Science	2015 - 2018	Azad University CTB	Sport Biosciences	GPA: 3.7/4
+
+
+Research Interests
+. Remote Health Monitoring	. Wearable Data Science	. Multi-Modal Integration
+
+
+Skills – Certifications
+From 2015 until now, I have attended several project-based courses learning AI, statistical analysis, and human physiology laboratory techniques. These have also deepened my understanding of the underlying theory behind each technique enabling me to apply a variety of methods based on the specific requirements of the dataset.
+
+Machine Learning with Python: A Practical Introduction	IBM-edX
+Deep Learning: Image Recognition	LinkedIn Learning
+Introduction to Digital Twins	LinkedIn Learning
+Advanced Methods in Musculoskeletal System Modeling (Opensim)	Sport Science Research Institute
+Statistics And Research Methodology	Sport Science Research Institute
+Structural Equation Modeling in (Mplus)	MPT Academy
+Structural Equation Modeling in (Smart PLS & AMOS)	MPT Academy
+Meta-Analysis in (CMA2)	MPT Academy
+Bibliometric Review in (VOS viewer & R)	MPT Academy
+Statistical Package for the Social Sciences (SPSS)	MPT Academy
+Qualitative Research Method in (MAXQDA)	MPT Academy
+Writing ISI Papers by (LaTeX & Mendeley)	MPT Academy
+Estimating Sample Size in (IBM SPSS Sample Power)	MPT Academy
+Exercise Physiology Laboratory Assistant	Sport Science Research Institute
+Biotechnology	Pasteur Institute of Iran
+Publications
+Submitted to the “European Journal of Applied Physiology”. Below is the preprint at bioRxiv
+Rajabi, H., Askari, B., & Clarke, D. C. (2025). Endurance training restores ageing-impaired lysosomal biogenesis factors in rest and response to acute exercise in rat skeletal muscle. https://doi.org/10.1101/2025.01.28.635321
+
+
+
+Under final edits	
+Benyamin Askari, Zi Xiang Lim, Janjira Soh, Brian Keith Kennedy, Jorming Goh*
+co-first authoring a perspective review with Professor Jorming Goh from the National University of Singapore, exploring DAMPs, aging, and exercise, utilizing NLP as well. The paper is scheduled for publication in “Nature Metabolism”.
+
+
+Courses
+
+Module Name	Grade	Project	Tools & Methods	Project Topic
+Machine learning & Data Mining	71	Classification	Python & Azure	Obesity prediction
+		Clustering	Python	Human Activity Recognition
+		NLP	Python	Sentiment Analysis
+Principles & Designs of IoT Systems	90	IoT Development	Arduino sensor programing
+Thingspeak platform	Wearable fall detector and alert system
+		Computer Vision	Python	Object detection, tracking and counting
+
+
+Language
+Academic IELTS       Overall: 7.5       Speaking: 8 – Listening 7.5 – Reading 7 – Writing: 6.5
+
+
+Volunteer work experience
+2016 – 2018	Member at Scientific and Research Council of Islamic Azad University - Central Tehran Branch
+	Designed and developed curriculum for student workshops
+
+
+Honors & Awards
+Academic
+Full Tuition Scholarship from Kharazmi University
+
+Athletic
+ 
+Iran <21 Kyokushin Championship       	2nd	Brown Belt Kyokushin Karate
+Tehran <18 Kyokushin Championship	2nd	Brown Belt Judo
+Tehran Adults Kyokushin Championship	3rd	
+ 
+
+
+Reference
+Professor Hamid Rajabi	Supervisor, Deputy director of research	hrajabi@khu.ac.ir
+Dr Taha Mansouri	Lecturer	T.Mansouri@salford.ac.uk
+
+
 
