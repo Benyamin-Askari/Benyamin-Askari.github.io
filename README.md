@@ -12,11 +12,11 @@
 
 ### [Obesity Prediction - Classification](https://www.mdpi.com/1424-8220/22/11/4240)
 
-### [Vehicle Counting Using YOLO and ByteTrack](https://github.com/Benyamin-Askari/Computer-Vision))
+### [Vehicle Counting - YOLOv11 and ByteTrack](https://github.com/Benyamin-Askari/Computer-Vision)
 
-### [IoT Fall Detection](https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/Benyamin-Askari/IoT-Fall-Detection).
+### [IoT Fall Detection](https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/Benyamin-Askari/IoT-Fall-Detection)
 
-### [Sentiment-Analysis](https://github.com/Benyamin-Askari/Sentiment-Analysis).
+### [Sentiment-Analysis](https://github.com/Benyamin-Askari/Sentiment-Analysis)
 
 ## Publications
 1. Submitted to the “European Journal of Applied Physiology”. Below is the preprint at bioRxiv Rajabi, H., Askari, B., & Clarke, D. C. (2025). Endurance training restores ageing-impaired lysosomal biogenesis factors in rest and response to acute exercise in rat skeletal muscle. https://doi.org/10.1101/2025.01.28.635321
