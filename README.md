@@ -6,12 +6,20 @@
 - B.S  | 2015 - 2018 | Sport Biosciences                                    | Azad University CTB   | GPA: 3.7/4
 
 ## Projects
-### [Human Activity Recognition-MHealth](https://www.mdpi.com/1424-8220/22/8/3048)
+# [Human Activity Recognition - MHealth](https://www.mdpi.com/1424-8220/22/8/3048)
 
-### [Human Activity Recognition-MHealth](/assets/img/eeg_band_discovery.jpeg)
+# [Human Activity Recognition - Wearable ]([/assets/img/eeg_band_discovery.jpeg](https://github.com/Benyamin-Askari/Clustering))
 
-### [Obesity Prediction - Classification](https://www.mdpi.com/1424-8220/22/11/4240)
+# [Obesity Prediction - Classification](https://www.mdpi.com/1424-8220/22/11/4240)
 
-### Publications
+# [Vehicle Counting Using YOLO and ByteTrack]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/Benyamin-Askari/Computer-Vision))
+
+# [IoT Fall Detection]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/Benyamin-Askari/IoT-Fall-Detection))
+
+# [Sentiment-Analysis]([[https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/Benyamin-Askari/IoT-Fall-Detection)](https://github.com/Benyamin-Askari/Sentiment-Analysis))
+
+## Publications
 1. Submitted to the “European Journal of Applied Physiology”. Below is the preprint at bioRxiv Rajabi, H., Askari, B., & Clarke, D. C. (2025). Endurance training restores ageing-impaired lysosomal biogenesis factors in rest and response to acute exercise in rat skeletal muscle. https://doi.org/10.1101/2025.01.28.635321
 2. Benyamin Askari, Zi Xiang Lim, Janjira Soh, Brian Keith Kennedy, Jorming Goh* co-first authoring a perspective review with Professor Jorming Goh from the National University of Singapore, exploring DAMPs, aging, and exercise, utilizing NLP as well. The paper is scheduled for publication in “Nature Metabolism”.
+
+Sentiment-Analysis
