@@ -14,7 +14,7 @@
 
 ### [Vehicle Counting Using YOLO and ByteTrack](https://github.com/Benyamin-Askari/Computer-Vision))
 
-### [IoT Fall Detection]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/Benyamin-Askari/IoT-Fall-Detection).
+### [IoT Fall Detection](https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/Benyamin-Askari/IoT-Fall-Detection).
 
 ### [Sentiment-Analysis](https://github.com/Benyamin-Askari/Sentiment-Analysis).
 
