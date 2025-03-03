@@ -1,8 +1,17 @@
 # Health @ IoT Data Science 
 
 ## Education						       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., 2024 - 2025, Internet of Things with Data Science | University of Salford		GPA: 80.5/100
+- M.S., 2018 - 2020, Exercise Physiology | Kharazmi University	        	GPA: 3.7/4	
+- B.S., 2015 - 2018 Sport Biosciences | Azad University CTB GPA: 3.7/4
+	
+Four project-based modules covering: ML & DL, IoT Systems Design & Computer Vision, Big Data, Security in IoT (emphasis on medical settings). Projects also include IoT development with Arduino and Raspberry Pi.
+
+
+Thesis: The effect of endurance training on factors mediating lysosome biogenesis in aged rats.
+Aims: 1. How TFE3, mTORC2, Calcineurin, skeletal muscle fiber diameter, and number differ between the young and the aged 2. Their post-exercise response in sedentary and trained groups 3. How long-term training affects all the factors 4. How training adaptation affects the magnitude of post-exercise response 5. The causal relationship between variables
+• All the mentioned hypotheses are analyzed by Bayesian inference
+
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
@@ -51,29 +60,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 - [Data Science Blog](https://medium.com/@shawhin)
 
-- Benyamin Askari
 
-
- 
-+44(0)7480790670	b.askari@edu.salford.ac.uk^
-
-LinkedIn/Benyamin Askari^
-std_Benyamin.Askari@alumni.khu.ac.ir^
-
-
-
-With a multidisciplinary background in IoT-Data Science and Exercise Physiology, I have gained a deep understanding of health, disease, and lifestyle interventions, and have been equipped with the tools to collect and analyze complex data and address critical healthcare challenges. My research experience and international collaborations with the National University of Singapore and Simon Fraser University have developed my ability to identify gaps and work effectively in diverse teams. I have training in IoT sensors, big data, and Machine/Deep learning techniques which I have applied in previous health research. With this foundation, I am eager to contribute to research aimed at utilizing Artificial intelligence and wearables to monitor and measure the movements of individuals with diseases causing mobility impairments like PD and stroke.
-
-Education
-Master of Science	2024- 2025	University of Salford	Internet of Things with Data Science	GPA: 80.5/100
-Four project-based modules covering: ML & DL, IoT Systems Design & Computer Vision, Big Data, Security in IoT (emphasis on medical settings). Projects also include IoT development with Arduino and Raspberry Pi.
-
-Master of Science	2018 - 2020	Kharazmi University	Pure Exercise Activity	GPA: 3.7/4
-Thesis: The effect of endurance training on factors mediating lysosome biogenesis in aged rats.
-Aims: 1. How TFE3, mTORC2, Calcineurin, skeletal muscle fiber diameter, and number differ between the young and the aged 2. Their post-exercise response in sedentary and trained groups 3. How long-term training affects all the factors 4. How training adaptation affects the magnitude of post-exercise response 5. The causal relationship between variables
-• All the mentioned hypotheses are analyzed by Bayesian inference
-
-Bachelor of Science	2015 - 2018	Azad University CTB	Sport Biosciences	GPA: 3.7/4
 
 
 Research Interests
