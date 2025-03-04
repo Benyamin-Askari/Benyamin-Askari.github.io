@@ -1,4 +1,15 @@
-# Health & IoT Data Science 
+<h1 align="center">Hi 👋, I'm Benyamin</h1>
+<h3 align="center">Health & IoT Data Science. I Solve Problems in Health Data Science.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niconielsen32&label=Profile%20views&color=0e75b6&style=flat-square" alt="niconielsen32" /> </p>
+
+<p align="left"> <a href="https://twitter.com/nielsencv_ai" target="blank"><img src="https://img.shields.io/twitter/follow/nielsencv_ai?logo=twitter&style=for-the-badge" alt="nielsencv_ai" /></a> </p>
+
+- 💬 Projects in **Wearables, Computer Vision, IoT, Sports Analytics**
+
+- 📫 inquiries **benyaminnaskari@gmail.com**
+-
+- #  
 
 ### Education						       		
 - M.S | 2024 - 2025 | Internet of Things with Data Science | University of Salford | GPA: 80.5/100
@@ -22,18 +33,7 @@
 1. Submitted to the “European Journal of Applied Physiology”. Below is the preprint at bioRxiv Rajabi, H., Askari, B., & Clarke, D. C. (2025). Endurance training restores ageing-impaired lysosomal biogenesis factors in rest and response to acute exercise in rat skeletal muscle. https://doi.org/10.1101/2025.01.28.635321
 2. Benyamin Askari, Zi Xiang Lim, Janjira Soh, Brian Keith Kennedy, Jorming Goh* co-first authoring a perspective review with Professor Jorming Goh from the National University of Singapore, exploring DAMPs, aging, and exercise, utilizing NLP as well. The paper is scheduled for publication in “Nature Metabolism”.
 
-<h1 align="center">Hi 👋, I'm Benyamin</h1>
-<h3 align="center">Machine Learning and Computer Vision Engineer. I Help Companies and 100k+ People Build ML Pipelines and Computer Vision Applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niconielsen32&label=Profile%20views&color=0e75b6&style=flat-square" alt="niconielsen32" /> </p>
-
-<p align="left"> <a href="https://twitter.com/nielsencv_ai" target="blank"><img src="https://img.shields.io/twitter/follow/nielsencv_ai?logo=twitter&style=for-the-badge" alt="nielsencv_ai" /></a> </p>
-
-- 📷 I post videos and tutorials on [https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg](https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg)
-
-- 💬 Talking about **Deep Learning, AI, Computer Vision, Robotics**
-
-- 📫 Business inquiries **thecodinglibraryyt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
