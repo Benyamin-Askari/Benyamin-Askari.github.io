@@ -32,10 +32,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nielsencv_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nielsencv_ai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nicolaiai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolaiai" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nicolainielsenai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nicolainielsenai" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/benyamin-askari-443424318" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benyamin-askari" height="30" width="40" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Benyamin-Askari" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="benyamin-askari-researchgate" height="30" width="40" />
+  </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=NJb01oYAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="benyamin-askari-google-scholar" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -69,17 +76,8 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
-  <a href="https://roboflow.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/RoboFlow_Logo.svg" alt="roboflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://ultralytics.com/yolov5" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/ultralytics/assets/raw/main/yolo-logo.png" alt="yolo" width="40" height="40"/> 
-  </a> 
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="microsoft_azure" width="40" height="40"/> 
-  </a> 
-  <a href="https://thingspeak.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Matlab_Logo.png" alt="thingspeak" width="40" height="40"/> 
   </a> 
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="raspberrypi" width="40" height="40"/> 
