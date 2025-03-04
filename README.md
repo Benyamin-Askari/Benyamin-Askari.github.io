@@ -70,22 +70,21 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
   <a href="https://roboflow.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://assets-global.website-files.com/5f6b6b3263eb55258b8b26d5/5f6b6b3263eb5532768b276a_roboflow_logo.svg" alt="roboflow" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/RoboFlow_Logo.svg" alt="roboflow" width="40" height="40"/> 
   </a> 
   <a href="https://ultralytics.com/yolov5" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Ultralytics_yolo.svg" alt="yolo" width="40" height="40"/> 
+    <img src="https://github.com/ultralytics/assets/raw/main/yolo-logo.png" alt="yolo" width="40" height="40"/> 
   </a> 
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="microsoft_azure" width="40" height="40"/> 
   </a> 
   <a href="https://thingspeak.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/ThingSpeak_Logo.svg" alt="thingspeak" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Matlab_Logo.png" alt="thingspeak" width="40" height="40"/> 
   </a> 
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/1920px-Raspberry_Pi_Logo.svg.png" alt="raspberrypi" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="raspberrypi" width="40" height="40"/> 
   </a> 
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
   </a> 
 </p>
-
