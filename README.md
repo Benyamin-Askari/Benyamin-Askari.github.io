@@ -8,8 +8,6 @@
 - 💬 Projects in **Wearables, Computer Vision, IoT, Sports Analytics**
 
 - 📫 inquiries **benyaminnaskari@gmail.com**
--
-- #  
 
 ### Education						       		
 - M.S | 2024 - 2025 | Internet of Things with Data Science | University of Salford | GPA: 80.5/100
